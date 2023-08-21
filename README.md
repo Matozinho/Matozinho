@@ -1,19 +1,8 @@
+<a align="right" href="https://app.daily.dev/matozinho">
+  <img align="right" src="https://api.daily.dev/devcards/7088afec7e6c4f2bb8ebd29bd4a7364c.png?r=j8i" width="30%" alt="Felipi Lima Matozinho's Dev Card"/>
+</a>
+
 # Hi there, I'm Felipi Matozinho 👋
-
-<!--
-**Matozinho/Matozinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 I'm a Full Stack developer with proficiency in Node.js environments and Computer Science undergraduate at Western Paraná State University (UNIOESTE). I'm passionate about Software development with a hint of interest in cybersec (mainly for web systems). I intend to start contributing to open source projects soon.
 
@@ -69,13 +58,14 @@ I'm a Full Stack developer with proficiency in Node.js environments and Computer
   </p>
 </details>
 
-<div display="flex" align="center">
-<a href="https://github.com/matozinho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matozinho&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/matozinho/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matozinho&layout=compact&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/matozinho">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matozinho&show_icons=true&theme=radical" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/matozinho/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matozinho&layout=compact&theme=radical" />
+  </a>
 </div>
 
 <p align="center">
