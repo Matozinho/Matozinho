@@ -1,5 +1,5 @@
 <a align="right" href="https://app.daily.dev/matozinho">
-  <img align="right" src="https://api.daily.dev/devcards/7088afec7e6c4f2bb8ebd29bd4a7364c.png?r=j8i" width="30%" alt="Felipi Lima Matozinho's Dev Card"/>
+  <img align="right" src="https://github.com/Matozinho/Matozinho/blob/main/devcard.svg" width="30%" alt="Felipi Lima Matozinho's Dev Card"/>
 </a>
 
 # Hi there, I'm Felipi Matozinho 👋
